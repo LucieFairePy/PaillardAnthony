@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Anthony PAILLARD
 
-### 🚀 Développeur Web Full-Stack 
+### 🚀 Développeur Web
 
 ---
 
