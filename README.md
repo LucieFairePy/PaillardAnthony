@@ -20,8 +20,6 @@
 
 🎯 Mon objectif : développer des outils utiles, explorer de nouvelles technos et contribuer à des projets open-source.
 
-</table>
-
 ---
 
 ## 🛠️ Compétences techniques
@@ -29,56 +27,67 @@
 <table align="center">
 
 <tr>
-    <td align="center"><strong>Languages</strong></td>
-    <td align="center"><strong>Frontend</strong></td>
-    <td align="center"><strong>Backend</strong></td>
+    <td align="center" width="300"><strong>Languages</strong></td>
+    <td align="center" width="300"><strong>Frontend</strong></td>
+    <td align="center" width="300"><strong>Backend</strong></td>
 </tr>
 
 <tr>
     <td align="center">
+        <br>
         <img src="images/icons/ProgrammingLanguages/java.svg" height="36" alt="Java" title="Java">
         <img src="images/icons/ProgrammingLanguages/javascript.svg" height="36" alt="JavaScript" title="JavaScript">
         <img src="images/icons/ProgrammingLanguages/php.svg" height="36" alt="PHP" title="PHP"><br>
         <img src="images/icons/ProgrammingLanguages/typescript.svg" height="36" alt="TypeScript" title="TypeScript">
         <img src="images/icons/FrontendDevelopment/html.svg" height="36" alt="HTML5" title="HTML5">
         <img src="images/icons/FrontendDevelopment/css.svg" height="36" alt="CSS3" title="CSS3">
+        <br><br>
     </td>
     <td align="center">
+        <br>
         <img src="images/icons/Framework/angularjs.svg" height="36" alt="Angular" title="Angular">
         <img src="images/icons/Framework/bootstrap.svg" height="36" alt="Bootstrap" title="Bootstrap">
         <img src="images/icons/FrontendDevelopment/materialize.svg" height="36" alt="Materialize" title="Materialize"><br>
         <img src="images/icons/FrontendDevelopment/sass.svg" height="36" alt="Sass" title="Sass">
         <img src="images/icons/FrontendDevelopment/tailwind.svg" height="36" alt="Tailwind CSS" title="Tailwind CSS">
+        <br><br>
     </td>
     <td align="center">
+        <br>
         <img src="images/icons/BackendDevelopment/express.svg" height="36" alt="Express.js" title="Express.js">
         <img src="images/icons/BackendDevelopment/nestjs.svg" height="36" alt="NestJS" title="NestJS">
         <img src="images/icons/BackendDevelopment/nodejs.svg" height="36" alt="Node.js" title="Node.js">
+        <br><br>
     </td>
 </tr>
 
 <tr>
-    <td align="center"><strong>Databases</strong></td>
-    <td align="center"><strong>Outils & DevOps</strong></td>
-    <td align="center"><strong>Contact</strong></td>
+    <td align="center" width="300"><strong>Databases</strong></td>
+    <td align="center" width="300"><strong>Outils & DevOps</strong></td>
+    <td align="center" width="300"><strong>Contact</strong></td>
 </tr>
 
 <tr>
     <td align="center">
+        <br>
         <img src="images/icons/Database/mariadb.svg" height="36" alt="MariaDB" title="MariaDB">
         <img src="images/icons/Database/mysql.svg" height="36" alt="MySQL" title="MySQL"><br>
         <img src="images/icons/Database/sqlite.svg" height="36" alt="SQLite" title="SQLite">
         <img src="images/icons/Database/postgresql.svg" height="36" alt="PostgreSQL" title="PostgreSQL">
+        <br><br>
     </td>
     <td align="center">
+        <br>
         <img src="images/icons/Devops/docker.svg" height="36" alt="Docker" title="Docker">
         <img src="images/icons/Other/git.svg" height="36" alt="Git" title="Git">
         <img src="images/icons/Software/postman.svg" height="36" alt="Postman" title="Postman">
+        <br><br>
     </td>
     <td align="center">
+        <br>
         <a href="mailto:pailard.anthony@gmail.com" title="Envoyer un e-mail"><img src="images/Gmail_icon_(2020).svg.png" height="32" alt="Email"></a>
-        &nbsp;
         <img src="images/discord_antho_p.png" height="32" alt="Discord" title="antho_p">
+        <br><br>
     </td>
 </tr>
 
@@ -91,9 +100,9 @@
 <table align="center">
 
 <tr>
-    <td align="center"><strong>Projet</strong></td>
-    <td align="center"><strong>Description</strong></td>
-    <td align="center"><strong>Technologies</strong></td>
+    <td align="center" width="200"><strong>Projet</strong></td>
+    <td align="center" width="400"><strong>Description</strong></td>
+    <td align="center" width="300"><strong>Technologies</strong></td>
 </tr>
 
 <tr>
