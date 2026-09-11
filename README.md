@@ -8,12 +8,6 @@
 
 ---
 
-<div align="center">
-    <p>Développement Web · Applications · Outils · Automatisation</p>
-</div>
-
----
-
 ## 👨‍💻 À propos de moi
 
 - 💡 **Ce qui me passionne** : Le développement d'applications web modernes, l'apprentissage de nouvelles technologies.
