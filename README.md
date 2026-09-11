@@ -60,7 +60,7 @@
         <br><br>
     </td>
 </tr>
-<br><br>
+
 <tr>
     <td align="center" width="300"><strong>Databases</strong></td>
     <td align="center" width="300"><strong>Outils & DevOps</strong></td>
