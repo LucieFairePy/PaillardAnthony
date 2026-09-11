@@ -86,7 +86,7 @@
     <td align="center">
         <br>
         <a href="mailto:pailard.anthony@gmail.com" title="Envoyer un e-mail"><img src="images/Gmail_icon_(2020).svg.png" width="50" alt="Email"></a>
-        <img src="images/discord_antho_p.png" width="150" alt="Discord" title="antho_p">
+        <img src="images/discord_antho_p.png" width="130" alt="Discord" title="antho_p">
         <br><br>
     </td>
 </tr>
