@@ -16,21 +16,9 @@
 
 ## 👨‍💻 À propos de moi
 
-<table align="center">
+💡 Passionné par le développement d'applications web modernes et l'apprentissage de nouvelles technologies.
 
-<tr>
-    <td align="center">
-        <strong>💡 Passion</strong><br>
-        Développement d'applications web modernes,<br>
-        apprentissage de nouvelles technologies
-    </td>
-    <td align="center">
-        <strong>🎯 Objectif</strong><br>
-        Développer des outils utiles,<br>
-        explorer de nouvelles technologies<br>
-        et contribuer à des projets open-source
-    </td>
-</tr>
+🎯 Mon objectif : développer des outils utiles, explorer de nouvelles technos et contribuer à des projets open-source.
 
 </table>
 
