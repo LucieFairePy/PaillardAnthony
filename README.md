@@ -2,20 +2,20 @@
 
 # 👋 Salut, moi c'est Anthony PAILLARD
 
-### 🚀 Développeur Web
+### Développeur Web
 
 </div>
 
 ---
 
-## 👨‍💻 À propos de moi
+## À propos de moi
 
-- 💡 **Ce qui me passionne** : Le développement d'applications web modernes, l'apprentissage de nouvelles technologies.
-- 🎯 **Objectif** : Continuer à développer des outils utiles, explorer de nouvelles technologies et contribuer à des projets open-source.
+- **Ce qui me passionne** : Le développement d'applications web modernes, l'apprentissage de nouvelles technologies.
+- **Objectif** : Continuer à développer des outils utiles, explorer de nouvelles technologies et contribuer à des projets open-source.
 
 ---
 
-## 🛠️ Compétences techniques
+## Compétences techniques
 
 <table align="center">
 
@@ -88,7 +88,7 @@
 
 ---
 
-## 📌 Projets & Réalisations
+## Projets & Réalisations
 
 <table align="center">
 
@@ -99,7 +99,7 @@
 </tr>
 
 <tr>
-    <td align="center">🌐 <strong>Applications Web</strong></td>
+    <td align="center"><strong>Applications Web</strong></td>
     <td align="center">
         Développement de plateformes web sur mesure,<br>
         PWA et dashboards.
@@ -110,7 +110,7 @@
 </tr>
 
 <tr>
-    <td align="center">🧩 <strong>Extensions & Outils</strong></td>
+    <td align="center"><strong>Extensions & Outils</strong></td>
     <td align="center">
         Création d'outils sur mesure,<br>
         scripts d'automatisation et extensions navigateurs.
@@ -124,7 +124,7 @@
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <div align="center">
     <img src="https://github-readme-stats-six-bice-85.vercel.app/api?username=PaillardAnthony&show_icons=true&theme=dark" height="150" alt="Statistiques GitHub">
